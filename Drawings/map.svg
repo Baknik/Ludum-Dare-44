@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg4716"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="map.svg"
+   inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4718" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="283.50091"
+     inkscape:cy="703.0872"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1823"
+     inkscape:window-height="1058"
+     inkscape:window-x="89"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4721">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="rect5264"
+       width="607.91772"
+       height="607.91772"
+       x="64.612572"
+       y="118.40334"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="190.77371"
+       x="136.98294"
+       height="463.177"
+       width="463.177"
+       id="rect5266"
+       style="opacity:1;fill:#252525;fill-opacity:1;fill-rule:nonzero;stroke:#3c3c3c;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="path5268"
+       cx="172.73608"
+       cy="226.81505"
+       r="13.131983"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="13.131983"
+       cy="224.79474"
+       cx="565.68542"
+       id="circle5270"
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="circle5272"
+       cx="564.67529"
+       cy="618.75421"
+       r="13.131983"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="13.131983"
+       cy="618.75421"
+       cx="172.7361"
+       id="circle5274"
+       style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>

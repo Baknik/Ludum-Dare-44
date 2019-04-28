@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg5957"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="enemies.svg">
+  <defs
+     id="defs5959" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="406.86831"
+     inkscape:cy="733.07464"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1823"
+     inkscape:window-height="1058"
+     inkscape:window-x="89"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5962">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="opacity:1;fill:#dd9b81;fill-opacity:1;fill-rule:nonzero;stroke:#833b00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="path6505"
+       cx="386.42859"
+       cy="131.64793"
+       r="91.428574"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-bottom-base.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:nodetypes="ccsccsc"
+       inkscape:connector-curvature="0"
+       id="path4513"
+       d="m 71.82294,321.16718 0.6858,49.23898 c 0,0 -11.66953,6.31002 -18.23282,8.5412 -6.25771,2.12731 -19.81409,4.50191 -19.81409,4.50191 l -0.89528,-73.33194 c 0,0 13.73406,1.65129 20.14133,3.49729 6.48469,1.86829 18.11506,7.55256 18.11506,7.55256 z"
+       style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#304953;stroke-width:4.31025219;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4515"
+       d="m 45.67185,311.33852 1.33122,69.66368"
+       style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.83255363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.75087798;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 56.00845,314.78959 1.27894,63.40591"
+       id="path4517"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4519"
+       d="m 64.01459,316.96378 1.23012,57.51544"
+       style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.67032301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#304953;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 100.88677,431.19382 67.61252,-0.25254 c 0,0 8.5931,11.48991 11.61675,17.94096 2.88288,6.15069 6.06092,19.45619 6.06092,19.45619 l -100.69502,0.25254 c 0,0 2.35086,-13.44533 4.92449,-19.70873 2.60473,-6.33909 10.48034,-17.68842 10.48034,-17.68842 z"
+       id="rect4383"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccsc" />
+    <rect
+       style="opacity:1;fill:#54889c;fill-opacity:1;fill-rule:nonzero;stroke:#22586f;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="rect4335-0"
+       width="85.928879"
+       height="34.500301"
+       x="92.031876"
+       y="397.59149" />
+    <path
+       style="opacity:1;fill:#81c3dd;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 51.52253,255.11787 c 13.77511,-12.26028 135.1372,-14.8449 152.20034,-1.54863 7.43559,5.7941 20.48273,41.37974 21.88699,76.99908 1.40427,35.61935 -30.93602,79.46906 -40.53465,82.58892 -17.67659,5.74544 -73.12485,4.80107 -93.61937,1.15451 -5.16813,-0.91956 -12.34236,-9.31183 -19.84778,-21.7419 -3.75271,-6.21503 5.03869,-7.88368 1.32975,-15.68825 -3.70895,-7.80457 0.28481,-24.77552 -2.96165,-33.3109 -3.22663,-8.48324 -20.40899,-28.63648 -22.13893,-37.65644 -1.72994,-9.01996 -8.21051,-3.87618 -8.21634,-12.27301 -0.0117,-16.79367 3.65233,-31.18124 11.90164,-38.52338 z"
+       id="rect4341"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sssssssssss" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2.125808;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 87.23233,456.73817 95.66091,-0.71102"
+       id="path4337-5"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path4401"
+       d="m 92.03373,446.63769 87.06826,-0.7131"
+       style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2.03106213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.93761635;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 95.06773,438.81019 78.97996,-0.71546"
+       id="path4403"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#22586f;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 46.80069,301.82931 179.55463,6.566 -9.34391,66.67006 -142.68406,6.31345 z"
+       id="rect4428"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <ellipse
+       style="opacity:1;fill:#aed9e9;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5.00000381;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="path4362"
+       cx="202.79637"
+       cy="327.21066"
+       rx="24.589075"
+       ry="65.338127"
+       transform="matrix(0.99999519,-0.00310063,0.00485647,0.99998821,0,0)" />
+    <rect
+       style="opacity:1;fill:#3f5241;fill-opacity:1;fill-rule:nonzero;stroke:#334236;stroke-width:4.80729866;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="rect6604"
+       width="21.852808"
+       height="108.41009"
+       x="43.170528"
+       y="-616.10425"
+       transform="matrix(0,1,-1,0,0,0)"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-barrel.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#3f5241;fill-opacity:1;fill-rule:nonzero;stroke:#334236;stroke-width:5;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 661.44394,133.65036 0,-31.08254 31.22541,-4.000005 0,39.082545 z"
+       id="rect6606"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-nozzle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       r="65.703423"
+       cy="157.9119"
+       cx="566.23572"
+       id="circle6582"
+       style="opacity:1;fill:#ce6f49;fill-opacity:1;fill-rule:nonzero;stroke:#833b00;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-top-base.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#3f5241;fill-opacity:1;fill-rule:nonzero;stroke:#334236;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="path4572"
+       sodipodi:sides="6"
+       sodipodi:cx="387.11249"
+       sodipodi:cy="133.00085"
+       sodipodi:r1="23.080372"
+       sodipodi:r2="19.98819"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 407.10068,144.54104 -19.98819,11.54019 -19.98819,-11.54019 0,-23.08037 19.98819,-11.54019 19.98819,11.54019 z"
+       transform="matrix(0.5,0.8660254,-0.8660254,0.5,598.65213,-213.19044)"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-nut.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g6696"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-projectile.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="opacity:1;fill:#8b2525;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:1.66690254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         d="m 394.93444,339.20361 -14.78631,-1.55858 8.73478,-12.02239 z"
+         id="path6642"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6644"
+         d="m 345.77982,303.49069 6.05152,13.58098 8.73478,-12.02239 z"
+         style="opacity:1;fill:#8b2525;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:1.66690254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path6636"
+         d="m 345.77982,339.20361 14.78631,-1.55858 -8.73478,-12.02239 z"
+         style="opacity:1;fill:#8b2525;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:1.66690254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:#8b2525;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:1.66690254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         d="m 394.93444,303.49069 -6.05152,13.58098 -8.73478,-12.02239 z"
+         id="path6638"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         style="opacity:1;fill:#8b2525;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:1.66690254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         d="m 370.35713,351.72639 7.43025,-12.87849 -14.86049,0 z"
+         id="path6628"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect6625"
+         d="m 370.35713,290.96793 7.43025,12.87849 -14.86049,0 z"
+         style="opacity:1;fill:#8b2525;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:1.66690254;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <circle
+         r="20.288588"
+         cy="321.48334"
+         cx="370.52145"
+         id="circle6623"
+         style="opacity:1;fill:#ce4949;fill-opacity:1;fill-rule:nonzero;stroke:#830000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Enemies\Turret\turret-top-base.png"
+         inkscape:export-xdpi="90"
+         inkscape:export-ydpi="90" />
+    </g>
+  </g>
+</svg>

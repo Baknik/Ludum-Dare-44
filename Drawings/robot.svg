@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="robot.svg">
+  <defs
+     id="defs4">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5398">
+      <stop
+         style="stop-color:#f5ff69;stop-opacity:1;"
+         offset="0"
+         id="stop5400" />
+      <stop
+         style="stop-color:#f5ff69;stop-opacity:0.44392523"
+         offset="1"
+         id="stop5402" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5398"
+       id="radialGradient5404"
+       cx="488.21414"
+       cy="17.714964"
+       fx="488.21414"
+       fy="17.714964"
+       r="52.856445"
+       gradientTransform="matrix(0.00793225,-0.78448236,0.93748192,0.00591268,518.28373,760.1894)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="524.41775"
+     inkscape:cy="738.90339"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1823"
+     inkscape:window-height="1058"
+     inkscape:window-x="89"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g4351"
+       transform="translate(-82.832506,-63.63961)"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-eye.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <circle
+         r="53.454472"
+         cy="160.93364"
+         cx="345.71429"
+         id="path4278"
+         style="opacity:1;fill:#cfe9f3;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4274"
+         d="m 386.7106,147.68812 c 0.60051,2.93654 -2.01557,-10.44333 -11.58526,-21.24166 -9.40299,-10.61022 -21.22811,-17.75952 -21.22811,-17.75952"
+         style="fill:none;fill-rule:evenodd;stroke:#005b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60747663" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#005b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60747663"
+         d="m 387.21568,174.10193 c 0.60051,-2.93654 -2.01557,10.44333 -11.58526,21.24166 -9.40299,10.61022 -21.22811,17.75952 -21.22811,17.75952"
+         id="path4280"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csc" />
+      <ellipse
+         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:1.61966765;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         id="ellipse4268"
+         cx="383.2836"
+         cy="170.10895"
+         rx="5.6889563"
+         ry="13.535793"
+         transform="matrix(0.99971973,-0.02367386,0.02367386,0.99971973,0,0)" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4272"
+         d="m 392.80216,161.27023 4.54568,0"
+         style="fill:none;fill-rule:evenodd;stroke:#005b83;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60747663" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4270"
+         d="m 381.48308,161.04308 -88.48387,0.50244"
+         style="fill:none;fill-rule:evenodd;stroke:#005b83;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.60747663" />
+    </g>
+    <g
+       id="g4693"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         sodipodi:nodetypes="cccscc"
+         inkscape:connector-curvature="0"
+         id="rect4335"
+         d="m 64.56416,197.39555 85,0 0,47.85714 c 0,0 -1.54914,26.59471 -42.14286,27.14286 -40.95534,0.55303 -42.85714,-27.14286 -42.85714,-27.14286 z"
+         style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#304953;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         sodipodi:nodetypes="sssscscssssss"
+         inkscape:connector-curvature="0"
+         id="rect4136"
+         d="m 88.92348,99.466487 c 7.62847,-8.22715 14.64226,-45.31466 22.57429,-49.97014 7.93204,-4.65548 3.14524,-14.25459 10.40604,-15.99227 14.52159,-3.475355 26.72592,-1.76897 32.71379,2.5037 2.79902,1.99726 6.75936,30.47815 6.75936,30.47815 0,0 -29.31605,4.90453 -29.61006,36.392743 -0.37429,40.08709 33.9216,39.29848 33.9216,39.29848 0,0 1.15109,25.6956 1.498,41.33613 0.34691,15.64053 1.53869,18.7642 -4.1813,25.27004 -5.94421,6.76089 -110.24313,5.98539 -115.4535,-2.5 -1.91913,-3.12541 -4.36669,-29.05604 -1.64385,-59.26407 1.36142,-15.10401 7.55098,-0.46772 12.20995,-15.39444 4.65898,-14.92673 21.42444,-22.04084 30.80568,-32.158323 z"
+         style="opacity:1;fill:#81c3dd;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         sodipodi:nodetypes="scscscscs"
+         inkscape:connector-curvature="0"
+         id="rect4141"
+         d="m 102.55807,163.6202 62.7961,-4.63001 c 0.49406,-0.005 0.91,0.73434 0.93258,1.65764 l 0.48503,19.8276 c 0.0226,0.92329 -0.35706,1.68631 -0.85105,1.67553 l -62.7961,-1.36999 c -0.49406,0.005 -0.90021,-0.73463 -0.93259,-1.65764 l -0.48503,-13.8276 c -0.0226,-0.92329 0.35829,-1.6392 0.85106,-1.67553 z"
+         style="opacity:1;fill:#f5ff99;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         inkscape:connector-curvature="0"
+         id="path4337"
+         d="m 64.56417,218.82412 84.28571,-0.71428"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         inkscape:connector-curvature="0"
+         id="path4339"
+         d="m 64.92131,227.75269 85,0.35715"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#22586f;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         d="m 116.42985,41.631497 4.55463,12.28029 -27.5582,81.670063 -39.46977,3.4563 c 0,0 0.30492,-43.032913 17.84381,-65.846183 26.7624,-34.8105 44.62953,-31.56047 44.62953,-31.56047 z"
+         id="path4454"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccsc" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4339-1"
+         d="m 104.13738,171.46047 60.23721,-0.90266"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.72204614;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-head.png"
+         inkscape:connector-curvature="0"
+         id="path4339-6"
+         d="m 63.50145,237.42873 85,0.35715"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <g
+       id="g4521"
+       transform="translate(-133.34014,5.0507635)"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-body.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#304953;stroke-width:4.31025219;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         d="m 214.67838,379.49303 0.6858,49.23898 c 0,0 -11.66953,6.31002 -18.23282,8.5412 -6.25771,2.12731 -19.81409,4.50191 -19.81409,4.50191 l -0.89528,-73.33194 c 0,0 13.73406,1.65129 20.14133,3.49729 6.48469,1.86829 18.11506,7.55256 18.11506,7.55256 z"
+         id="path4513"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccsccsc" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.83255363;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 188.52729,369.66437 1.33122,69.66368"
+         id="path4515"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4517"
+         d="m 198.86389,373.11544 1.27894,63.40591"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.75087798;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.67032301;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 206.87003,375.28963 1.23012,57.51544"
+         id="path4519"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ccsccsc"
+         inkscape:connector-curvature="0"
+         id="rect4383"
+         d="m 243.74221,489.51967 67.61252,-0.25254 c 0,0 8.5931,11.48991 11.61675,17.94096 2.88288,6.15069 6.06092,19.45619 6.06092,19.45619 l -100.69502,0.25254 c 0,0 2.35086,-13.44533 4.92449,-19.70873 2.60473,-6.33909 10.48034,-17.68842 10.48034,-17.68842 z"
+         style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#304953;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <rect
+         y="455.91733"
+         x="234.88731"
+         height="34.500301"
+         width="85.928879"
+         id="rect4335-0"
+         style="opacity:1;fill:#54889c;fill-opacity:1;fill-rule:nonzero;stroke:#22586f;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="sssssssssss"
+         inkscape:connector-curvature="0"
+         id="rect4341"
+         d="m 194.37797,313.44372 c 13.77511,-12.26028 135.1372,-14.8449 152.20034,-1.54863 7.43559,5.7941 20.48273,41.37974 21.88699,76.99908 1.40427,35.61935 -30.93602,79.46906 -40.53465,82.58892 -17.67659,5.74544 -73.12485,4.80107 -93.61937,1.15451 -5.16813,-0.91956 -12.34236,-9.31183 -19.84778,-21.7419 -3.75271,-6.21503 5.03869,-7.88368 1.32975,-15.68825 -3.70895,-7.80457 0.28481,-24.77552 -2.96165,-33.3109 -3.22663,-8.48324 -20.40899,-28.63648 -22.13893,-37.65644 -1.72994,-9.01996 -8.21051,-3.87618 -8.21634,-12.27301 -0.0117,-16.79367 3.65233,-31.18124 11.90164,-38.52338 z"
+         style="opacity:1;fill:#81c3dd;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4337-5"
+         d="M 230.08777,515.06402 325.74868,514.353"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2.125808;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:2.03106213;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 234.88917,504.96354 87.06826,-0.7131"
+         id="path4401"
+         inkscape:connector-curvature="0" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4403"
+         d="m 237.92317,497.13604 78.97996,-0.71546"
+         style="fill:none;fill-rule:evenodd;stroke:#304953;stroke-width:1.93761635;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect4428"
+         d="m 189.65613,360.15516 179.55463,6.566 -9.34391,66.67006 -142.68406,6.31345 z"
+         style="opacity:1;fill:#416b7c;fill-opacity:1;fill-rule:nonzero;stroke:#22586f;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <ellipse
+         transform="matrix(0.99999519,-0.00310063,0.00485647,0.99998821,0,0)"
+         ry="65.338127"
+         rx="24.589075"
+         cy="385.97928"
+         cx="345.3671"
+         id="path4362"
+         style="opacity:1;fill:#aed9e9;fill-opacity:1;fill-rule:nonzero;stroke:#005b83;stroke-width:5.00000381;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+    </g>
+    <ellipse
+       transform="matrix(0.99999347,-0.00361483,0.00416566,0.99999132,0,0)"
+       ry="53.363426"
+       rx="17.225931"
+       cy="237.71706"
+       cx="234.94658"
+       id="ellipse4379"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#808080;stroke-width:5.00000048;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:0.5140187"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot_lense.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <g
+       id="g5385"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-gun-main.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="cccccc"
+         inkscape:connector-curvature="0"
+         id="rect4535"
+         d="m 346.80763,198.94587 83.41483,29.66284 154.78135,9.27241 -154.78135,9.27241 -83.41483,29.66284 z"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <circle
+         r="45.961056"
+         cy="238.52481"
+         cx="349.05365"
+         id="path4537"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect4535-6"
+         d="m 412.85252,216.28143 47.56885,7.64641 0,27.12665 -47.56885,7.64641 z"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <circle
+         r="11.048317"
+         cy="237.23746"
+         cx="585.92432"
+         id="path4537-6"
+         style="opacity:1;fill:#c8c8c8;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <path
+         d="m 368.95227,250.26829 -19.98819,11.54019 -19.98819,-11.54019 0,-23.08037 19.98819,-11.54019 19.98819,11.54019 z"
+         inkscape:randomized="0"
+         inkscape:rounded="0"
+         inkscape:flatsided="true"
+         sodipodi:arg2="1.0471976"
+         sodipodi:arg1="0.52359878"
+         sodipodi:r2="19.98819"
+         sodipodi:r1="23.080372"
+         sodipodi:cy="238.7281"
+         sodipodi:cx="348.96408"
+         sodipodi:sides="6"
+         id="path4572"
+         style="opacity:1;fill:#304953;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         sodipodi:type="star" />
+    </g>
+    <g
+       id="g4709"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-gun-cage.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect4570"
+         d="m 299.44396,351.35177 158.1145,-13.21429 0,77.17422 -158.29307,-13.21429 z"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <rect
+         y="348.91144"
+         x="298.92276"
+         height="56.296898"
+         width="19.202845"
+         id="rect4576"
+         style="opacity:1;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:4.23346901;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:4.45732498;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         id="rect4578"
+         width="18.978989"
+         height="63.144112"
+         x="346.22687"
+         y="345.48782" />
+      <rect
+         y="341.07593"
+         x="393.5528"
+         height="71.967896"
+         width="18.711399"
+         id="rect4580"
+         style="opacity:1;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:4.7249136;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+      <rect
+         style="opacity:1;fill:#aaaaaa;fill-opacity:1;fill-rule:nonzero;stroke:#646464;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+         id="rect4582"
+         width="18.436314"
+         height="81.794334"
+         x="440.88248"
+         y="336.16272" />
+    </g>
+    <path
+       style="opacity:1;fill:url(#radialGradient5404);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 541.90752,377.58166 c 0,-23.0553 -52.85742,-41.74554 -52.85742,-41.74554 0,0 4.84668,5.44532 9.98828,12.96652 -6.31143,-3.54972 -11.27539,-5.63332 -11.27539,-5.63332 0,0 15.75781,20.78309 15.75781,35.25765 0,14.47457 -15.75781,35.25765 -15.75781,35.25765 0,0 3.98238,-1.67061 9.34179,-4.56435 -4.35578,6.04817 -8.05468,10.20538 -8.05468,10.20538 0,0 52.85742,-18.68868 52.85742,-41.74399 z"
+       id="path5392"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\Robot\robot-projectile.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+</svg>
