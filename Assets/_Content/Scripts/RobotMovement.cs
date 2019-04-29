@@ -10,6 +10,7 @@ public class RobotMovement : MonoBehaviour
     public FloatReference RobotBoostForce;
     public FloatReference GroundTestDistance;
     public FloatReference RobotSprintSpeed;
+    public FloatReference RobotFireRecoil;
     public LayerMask GroundLayerMask;
 
     public Vector2Reference RobotPosition;
@@ -19,6 +20,8 @@ public class RobotMovement : MonoBehaviour
     public BoolReference RobotBoosting;
     public BoolReference RobotGrounded;
     public BoolReference RobotSprinting;
+    public Vector2Reference Checkpoint;
+    public Vector2Reference RobotAimDirection;
 
     private Rigidbody2D rigidbody2D;
 
@@ -44,12 +47,12 @@ public class RobotMovement : MonoBehaviour
 
     void FixedUpdate()
     {
-        Vector2 velocity = new Vector2(this.RobotMovementDirection.Value * this.RobotMovementSpeed.Value, this.rigidbody2D.velocity.y);
+        Vector2 force = new Vector2(this.RobotMovementDirection.Value * this.RobotMovementSpeed.Value, this.rigidbody2D.velocity.y);
         if (this.RobotSprinting.Value)
         {
-            velocity += (Vector2.right * this.RobotFacingDirection.Value * this.RobotSprintSpeed.Value);
+            force += (Vector2.right * this.RobotFacingDirection.Value * this.RobotSprintSpeed.Value);
         }
-        this.rigidbody2D.velocity = velocity;
+        this.rigidbody2D.AddForce(force);
 
         this.RobotVelocity.Value = this.rigidbody2D.velocity;
 
@@ -62,5 +65,15 @@ public class RobotMovement : MonoBehaviour
     public void HandleRobotStartBoosting()
     {
         this.rigidbody2D.AddForce(Vector2.up * this.RobotBoostImpulseForce.Value, ForceMode2D.Impulse);
+    }
+
+    public void HandleRobotReturn()
+    {
+        this.transform.position = this.Checkpoint.Value;
+    }
+
+    public void HandleRobotFire()
+    {
+        this.rigidbody2D.AddForce(this.RobotAimDirection.Value * -1f * this.RobotFireRecoil.Value, ForceMode2D.Impulse);
     }
 }

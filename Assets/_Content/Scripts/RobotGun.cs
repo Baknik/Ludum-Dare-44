@@ -9,6 +9,8 @@ public class RobotGun : MonoBehaviour
     public FloatReference ProjectileSpeed;
     public Vector2Reference ProjectileSpawnOffset;
 
+    public Vector2Reference RobotAimDirection;
+
     void Start()
     {
         
@@ -16,7 +18,7 @@ public class RobotGun : MonoBehaviour
     
     void Update()
     {
-        
+        this.RobotAimDirection.Value = this.transform.TransformVector(Vector2.right);
     }
 
     public void HandleRobotFire()

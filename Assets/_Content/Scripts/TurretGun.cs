@@ -12,6 +12,7 @@ public class TurretGun : MonoBehaviour
     public Vector2Reference ProjectileSpawnOffset;
 
     public Vector2Reference TargetPosition;
+    public GameEvent TurretFire;
 
     void Start()
     {
@@ -29,6 +30,8 @@ public class TurretGun : MonoBehaviour
         {
             Projectile turretProjectile = Instantiate<Projectile>(this.TurretProjectile, this.transform.TransformPoint(this.ProjectileSpawnOffset.Value), Quaternion.identity);
             turretProjectile.SetInitialVelocity(this.transform.TransformVector(Vector2.right) * this.ProjectileSpeed.Value);
+
+            this.TurretFire.Raise();
         }
     }
 }

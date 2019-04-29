@@ -433,7 +433,7 @@ MonoBehaviour:
     _variable: {fileID: 0}
   MaxDistance:
     _useConstant: 1
-    _constantValue: 30
+    _constantValue: 28
     _variable: {fileID: 0}
   TargetPosition:
     _useConstant: 0
@@ -459,7 +459,7 @@ MonoBehaviour:
     type: 3}
   AggroRange:
     _useConstant: 1
-    _constantValue: 20
+    _constantValue: 18
     _variable: {fileID: 0}
   ProjectileSpeed:
     _useConstant: 1
@@ -477,6 +477,7 @@ MonoBehaviour:
     _useConstant: 0
     _constantValue: {x: 0, y: 0}
     _variable: {fileID: 11400000, guid: 8594fe16bb59e2247a62a1036e020376, type: 2}
+  TurretFire: {fileID: 11400000, guid: 17e8bbb06f1d3fa41be73d392fc55ae3, type: 2}
 --- !u!1 &7917197085918792555
 GameObject:
   m_ObjectHideFlags: 0

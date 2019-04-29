@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Rewired;
+using UnityEngine.SceneManagement;
 
 public class InputSystem : MonoBehaviour
 {
@@ -17,9 +18,11 @@ public class InputSystem : MonoBehaviour
     public BoolReference RobotFiring;
     public FloatReference RobotEnergy;
     public BoolReference RobotGrounded;
+    public BoolReference TrialComplete;
 
     public GameEvent RobotStartBoosting;
     public GameEvent RobotFire;
+    public GameEvent RobotReturn;
 
     private Player player;
 
@@ -82,6 +85,19 @@ public class InputSystem : MonoBehaviour
         else
         {
             this.RobotSprinting.Value = false;
+        }
+
+        // Return/reset event
+        if (player.GetButtonDown("Return"))
+        {
+            if (this.TrialComplete.Value)
+            {
+                SceneManager.LoadScene("Main");
+            }
+            else
+            {
+                this.RobotReturn.Raise();
+            }
         }
     }
 }

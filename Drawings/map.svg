@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="210mm"
@@ -20,7 +21,75 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4718" />
+     id="defs4718">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4830">
+      <stop
+         style="stop-color:#4d4d4d;stop-opacity:1;"
+         offset="0"
+         id="stop4832" />
+      <stop
+         style="stop-color:#a4a4a4;stop-opacity:1"
+         offset="1"
+         id="stop4834" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4817">
+      <stop
+         style="stop-color:#00ffff;stop-opacity:1;"
+         offset="0"
+         id="stop4819" />
+      <stop
+         style="stop-color:#00ffff;stop-opacity:0;"
+         offset="1"
+         id="stop4821" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4152">
+      <stop
+         style="stop-color:#13f2ff;stop-opacity:0.29439253"
+         offset="0"
+         id="stop4154" />
+      <stop
+         style="stop-color:#b3b3b3;stop-opacity:0;"
+         offset="1"
+         id="stop4156" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4152"
+       id="radialGradient4204"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.64478764,0,0,0.52509654,-880.9682,892.22507)"
+       cx="-142.14284"
+       cy="200.77817"
+       fx="-142.14284"
+       fy="200.77817"
+       r="185" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4817"
+       id="radialGradient4823"
+       cx="70.710678"
+       cy="87.666527"
+       fx="70.710678"
+       fy="87.666527"
+       r="30.618622"
+       gradientTransform="matrix(1.3428571,0,0,1.5505978,250.51783,-76.553274)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4830"
+       id="linearGradient4836"
+       x1="-432.49994"
+       y1="1037.3627"
+       x2="-430.35721"
+       y2="830.21985"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -29,8 +98,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="283.50091"
-     inkscape:cy="703.0872"
+     inkscape:cx="-3.6081726"
+     inkscape:cy="331.54835"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,18 +125,18 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       style="opacity:1;fill:#1e1e1e;fill-opacity:1;fill-rule:nonzero;stroke:#4a4a4a;stroke-width:20;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
        id="rect5264"
        width="607.91772"
        height="607.91772"
-       x="64.612572"
-       y="118.40334"
+       x="61.755428"
+       y="406.97476"
        inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <rect
-       y="190.77371"
-       x="136.98294"
+       y="479.34515"
+       x="134.12579"
        height="463.177"
        width="463.177"
        id="rect5266"
@@ -78,16 +147,16 @@
     <circle
        style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
        id="path5268"
-       cx="172.73608"
-       cy="226.81505"
+       cx="169.87894"
+       cy="515.38647"
        r="13.131983"
        inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
        r="13.131983"
-       cy="224.79474"
-       cx="565.68542"
+       cy="513.36615"
+       cx="562.82831"
        id="circle5270"
        style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
        inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
@@ -96,19 +165,186 @@
     <circle
        style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
        id="circle5272"
-       cx="564.67529"
-       cy="618.75421"
+       cx="561.81818"
+       cy="907.32562"
        r="13.131983"
        inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <circle
        r="13.131983"
-       cy="618.75421"
-       cx="172.7361"
+       cy="907.32562"
+       cx="169.87895"
        id="circle5274"
        style="opacity:1;fill:#3c3c3c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:15.23799992;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
        inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\map-tile-metal.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:2.72005486;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 183.08746,318.45627 359.53935,0 20.06549,23.52611 -399.67033,0 z"
+       id="rect4147"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\recharge-station-base.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#0af1ff;stroke-width:19.15247726;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.26168225"
+       d="m 806.30148,130.93364 328.82562,0"
+       id="path4174"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\recharge-station-particle.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-gate.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4178"
+       d="m 1144.2293,420.07459 276.8374,0 15.45,-23.54454 -307.7374,0 z"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:2.38773918;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+    <path
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:2.38773918;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 1144.2293,999.00184 276.8374,0 15.45,23.54456 -307.7374,0 z"
+       id="path4180"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-gate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#01f8ff;fill-opacity:0.4813084;fill-rule:nonzero;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:0.26168225"
+       id="rect4182"
+       width="252.00562"
+       height="579.14844"
+       x="1644.8204"
+       y="419.90247"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 1774.9121,657.34375 a 35.403187,35.403187 0 0 0 -35.4043,35.4043 35.403187,35.403187 0 0 0 35.4043,35.40234 35.403187,35.403187 0 0 0 35.4024,-35.40234 35.403187,35.403187 0 0 0 -35.4024,-35.4043 z m 0,15.79883 a 19.604551,19.604551 0 0 1 19.6035,19.60547 19.604551,19.604551 0 0 1 -19.6035,19.60351 19.604551,19.604551 0 0 1 -19.6055,-19.60351 19.604551,19.604551 0 0 1 19.6055,-19.60547 z"
+       id="path4186"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="rect4184"
+       width="78.791901"
+       height="74.751282"
+       x="1736.0206"
+       y="694.76819"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <circle
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="path4191"
+       cx="1775.1641"
+       cy="722.0423"
+       r="7.5761442"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 1771.4615,727.1134 7.6574,0 4,21.7792 -15.6574,0 z"
+       id="rect4193"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       y="693.45868"
+       x="1732.5682"
+       height="15.58462"
+       width="85.696663"
+       id="rect4196"
+       style="opacity:1;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <rect
+       style="opacity:1;fill:#595959;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="rect4198"
+       width="85.696663"
+       height="15.58462"
+       x="1732.5682"
+       y="755.45868"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-barrier.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-gate.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4200"
+       d="m 848.60436,998.9236 250.08724,0 13.9571,23.701 -278.00145,0 z"
+       style="opacity:1;fill:#b3b3b3;fill-opacity:1;fill-rule:nonzero;stroke:#656565;stroke-width:2.27697706;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-gate.png"
+       y="806.22443"
+       x="-1090.9847"
+       height="194.28572"
+       width="238.57143"
+       id="rect4202"
+       style="opacity:1;fill:url(#radialGradient4204);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       transform="scale(-1,1)" />
+    <rect
+       style="opacity:1;fill:#bebe41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="rect4206"
+       width="33.854977"
+       height="62.629459"
+       x="953.11481"
+       y="779.63843"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-gate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#bebe41;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m 937.40051,828.92413 65.28359,0 -32.64179,36.62946 z"
+       id="rect4208"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\energy-gate.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:url(#radialGradient4823);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       id="path4815"
+       sodipodi:sides="6"
+       sodipodi:cx="345.47218"
+       sodipodi:cy="59.382254"
+       sodipodi:r1="47.477169"
+       sodipodi:r2="9.4954338"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.0471976"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 386.5886,83.12084 -36.36872,-15.515297 -4.74771,39.253877 -4.74772,-39.253878 -36.36872,15.515298 31.621,-23.738585 -31.621,-23.738584 36.36872,15.515297 4.74772,-39.253881 4.74772,39.253882 36.36871,-15.515298 -31.621,23.738585 z"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\checkpoint-marker.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:url(#linearGradient4836);fill-opacity:1;fill-rule:nonzero;stroke:#343434;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:37;stroke-opacity:1"
+       d="m -695.35714,830.93365 38.92857,185.71425 38.92857,-185.71425 36.07143,187.14285 41.78571,-187.14285 37.5,185.71425 40.35714,-185.71425 40.35714,185.71425 37.5,-185.71425 37.5,182.85715 40.35714,-182.85715 37.5,185.71425 40.35714,-185.71425 36.07143,184.28575 41.78571,-184.28575 38.92857,207.14285 -622.85712,0 z"
+       id="rect4827"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccccccccccc"
+       inkscape:export-filename="E:\My Documents\GitHub\Ludum-Dare-44\Assets\_Content\Sprites\World\spikes.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>

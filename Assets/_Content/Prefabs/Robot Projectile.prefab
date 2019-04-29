@@ -19,7 +19,7 @@ GameObject:
   - component: {fileID: 4754440527955809969}
   m_Layer: 10
   m_Name: Robot Projectile
-  m_TagString: Player
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -4934,7 +4934,7 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 0.0001
+  m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0
   m_GravityScale: 0
@@ -4977,3 +4977,4 @@ MonoBehaviour:
     _variable: {fileID: 0}
   Explosion: {fileID: 2770636336453915035, guid: 0e42ac2c68b8aff46ba3eeb6f2debfbb,
     type: 3}
+  SoftHit: {fileID: 11400000, guid: 11172f6c182181d48ba73ef11569aa82, type: 2}

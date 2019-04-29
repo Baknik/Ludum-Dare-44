@@ -18,7 +18,7 @@ GameObject:
   - component: {fileID: 8455817086093831417}
   m_Layer: 12
   m_Name: Turret Projectile
-  m_TagString: Enemy
+  m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -168,6 +168,7 @@ MonoBehaviour:
     _variable: {fileID: 0}
   Explosion: {fileID: 2567746818478119445, guid: 529952a13824f35418e75989156b9634,
     type: 3}
+  SoftHit: {fileID: 11400000, guid: 11172f6c182181d48ba73ef11569aa82, type: 2}
 --- !u!114 &8455817086093831417
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -187,5 +188,5 @@ MonoBehaviour:
   DamageEvent: {fileID: 11400000, guid: b80079f7c3f24cd4393111067b765288, type: 2}
   Damage:
     _useConstant: 1
-    _constantValue: 50
+    _constantValue: 100
     _variable: {fileID: 0}
